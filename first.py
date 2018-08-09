@@ -1,5 +1,6 @@
 a=10
 b=20
 c=30
-z=a+b+c
+d=100
+z=a+b+c+d
 print "THe total sum is",z
